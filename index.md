@@ -11,9 +11,6 @@ Hi, I'm Hyelim Lim, a first year M.S. student in Artificial Inteligence Applicat
 - **Mechanistic Interpretability:** I am interested in understanding how large language models acquire, represent, and process knowledge by analyzing their internal mechanisms and structures.
 - **Long-term Memory:** I explore methods for equipping conversational agents with persistent memory, enabling them to recall and utilize past interactions over extended periods.
 
-## News
-
-- Coming Soon
 
 {% include_relative _includes/publications.md %}
 
