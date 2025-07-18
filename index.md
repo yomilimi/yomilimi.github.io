@@ -4,20 +4,21 @@ layout: homepage
 
 ## About Me
 
-I am a Ph.D. student at ...
+Hi, I'm Hyelim Lim, a first year M.S. student in Artificial Inteligence Application at Hanyang University, supervised by Prof. Taeuk Kim and affiliated with the HYU NLP Lab.
 
 ## Research Interests
 
-- **Computer Vision:** image recognition, image generation, video captioning
-- **Machine Learning:** meta-learning, incremental learning, transfer learning
+- **Mechanistic Interpretability:** I am interested in understanding how large language models acquire, represent, and process knowledge by analyzing their internal mechanisms and structures.
+- **Long-term Memory:** I explore methods for equipping conversational agents with persistent memory, enabling them to recall and utilize past interactions over extended periods.
 
 ## News
 
-- **[Feb. 2020]** Our paper about incremental learning is accepted to CVPR 2020.
-- **[Feb. 2020]** We will host the ACM Multimedia Asia 2020 conference in Singapore!
-- **[Sept. 2019]** Our paper about few-shot learning is accepted to NeurIPS 2019.
-- **[Mar. 2019]** Our paper about few-shot learning is accepted to CVPR 2019.
+- Coming Soon
 
 {% include_relative _includes/publications.md %}
+
+## Educations
+- Mar. 2025 ~ Present: M.S. Student in Artificial Inteligence Application, Hanyang University
+- Feb. 2021 ~ Feb. 2025: B.S. Student in Computer Science Education, SungKyunKwan University
 
 {% include_relative _includes/services.md %}

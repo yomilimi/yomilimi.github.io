@@ -7,24 +7,102 @@
 <div class="pub-row">
 
   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
-    <img src="assets/img/teaser_example.png" class="teaser img-fluid z-depth-1">
+    <img src="assets/img/arxiv-does.png" class="teaser img-fluid z-depth-1">
     <abbr class="badge">CVPR</abbr>
   </div>
 
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
-    <div class="title"><a href="https://arxiv.org/pdf/2002.10211.pdf">Mnemonics Training: Multi-Class Incremental Learning without Forgetting</a></div>
-    <div class="author"><strong>Yaoyao Liu</strong>, Yuting Su, An-An Liu, Bernt Schiele, Qianru Sun</div>
-    <div class="periodical"><em>IEEE/CVF Conference on Computer Vision and Pattern Recognition <strong>(CVPR)</strong>, 2020.</em></div>
+    <div class="title"><a href="https://www.arxiv.org/pdf/2505.16252">Does Localization Inform Unlearning? A Rigorous Examination of Local Parameter Attribution for Knowledge Unlearning in Language Models</a></div>
+    <div class="author">Hwiyeong Lee, Uiji Hwang, <strong>Hyelim Lim</strong>, Taeuk Kim</div>
+    <div class="periodical"><em>arXiv preprint, 2025.</em></div>
     <div class="links">
-      <a href="https://arxiv.org/pdf/2002.10211.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
-      <a href="https://github.com/yaoyao-liu/mnemonics" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a>
-      <a href="https://class-il.mpi-inf.mpg.de/mnemonics/" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Project Page</a>
-      <a href="https://dblp.uni-trier.de/rec/conf/cvpr/LiuSLSS20.html?view=bibtex" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">BibTex</a>
-      <strong><i style="color:#e74d3c">Oral Presentation</i></strong>
+      <a href="https://www.arxiv.org/pdf/2505.16252" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
+      <a href="https://arxiv.org/bibtex/2505.16252" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">BibTex</a>
+      <strong><i style="color:#e74d3c">Under Review</i></strong>
     </div>
   </div>
 </div>
 </li>
+
+<li>
+<div class="pub-row">
+
+  <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
+    <img src="assets/img/arxiv.png" class="teaser img-fluid z-depth-1">
+    <abbr class="badge">CVPR</abbr>
+  </div>
+
+  <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
+    <div class="title"><a href="https://www.dbpia.co.kr/Journal/articleDetail?nodeId=NODE12036328">ASR Error Correction Method Using Context-Aware LLMs</a></div>
+    <div class="author"><strong>Hyelim Lim</strong>, Changhan Oh, Jeomja Kang, Hwajeon Song, Kiyoung Park</div>
+    <div class="periodical"><em>The Institute of Electronics and Information Engineers(IEIE), 2024.</em></div>
+    <div class="links">
+      <a href="https://www.dbpia.co.kr/Journal/articleDetail?nodeId=NODE12036328" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
+      <strong><i style="color:#e74d3c">Poster Presentation, Outstanding Student Paper</i></strong>
+    </div>
+  </div>
+</div>
+</li>
+
+<li>
+<div class="pub-row">
+
+  <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
+    <img src="assets/img/arxiv.png" class="teaser img-fluid z-depth-1">
+    <abbr class="badge">CVPR</abbr>
+  </div>
+
+  <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
+    <div class="title"><a href="https://www.dbpia.co.kr/Journal/articleDetail?nodeId=NODE12117416">Utilizing Context-aware Large Langauage Models for Speech Recognition Error Correction</a></div>
+    <div class="author"><strong>Hyelim Lim</strong>, Changhan Oh, Jeomja Kang, Hwajeon Song, Kiyoung Park</div>
+    <div class="periodical"><em>The Institute of Electronics and Information Engineers(IEIE), 2024.</em></div>
+    <div class="links">
+      <a href="https://www.dbpia.co.kr/Journal/articleDetail?nodeId=NODE12117416" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
+      <strong><i style="color:#e74d3c">Journal</i></strong>
+    </div>
+  </div>
+</div>
+</li>
+
+<li>
+<div class="pub-row">
+
+  <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
+    <img src="assets/img/arxiv.png" class="teaser img-fluid z-depth-1">
+    <abbr class="badge">CVPR</abbr>
+  </div>
+
+  <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
+    <div class="title"><a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4815382">Utilizing Large Language Models for Detection of SMS Spam in Few-Shot Settings</a></div>
+    <div class="author">Minseok Hur, Sooyon Seo, Jaeho Hwang, <strong>Hyelim Lim</strong>, Moohong Min</div>
+    <div class="periodical"><em>SSRN, 2024.</em></div>
+    <div class="links">
+      <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4815382" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
+    </div>
+  </div>
+</div>
+</li>
+
+<li>
+<div class="pub-row">
+
+  <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
+    <img src="assets/img/arxiv.png" class="teaser img-fluid z-depth-1">
+    <abbr class="badge">CVPR</abbr>
+  </div>
+
+  <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
+    <div class="title"><a href="https://www.dbpia.co.kr/Journal/articleDetail?nodeId=NODE11705189">Method of combining prompts for code generation based on LLM</a></div>
+    <div class="author">Sangyeop Yeo, <strong>Hyelim Lim</strong>, Hyungkook Ju, Taeho Kim, Sangcheol Kim, Yuseung Ma</div>
+    <div class="periodical"><em>Korean Institute of Information Scientists and Engineers(KSC), 2023.</em></div>
+    <div class="links">
+      <a href="https://www.dbpia.co.kr/Journal/articleDetail?nodeId=NODE11705189" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
+      <strong><i style="color:#e74d3c">Poster Presentation</i></strong>
+    </div>
+  </div>
+</div>
+</li>
+
   
 <br>
 

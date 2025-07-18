@@ -1,27 +1,26 @@
 # Basic Information 
-title: Your Name
-position: Your Position
-affiliation: Max Planck Institute for Informatics
-affiliation_link: https://www.mpi-inf.mpg.de/
-email: example (at) mpi-inf.mpg.de
+title: Hyelim Lim
+position: M.S. Student
+affiliation: Hanyang University
+affiliation_link: https://www.hanyang.ac.kr
+email: yomilimi@hanyang.ac.kr
 
 # Search Engine Optimization (SEO)
-keywords: minimal light
-canonical: https://minimal-light-theme-mpi-inf.yliu.me/
-description: The Minimal Light is a simple and elegant jekyll theme for academic personal homepage.
+keywords: Hyelim Lim
+canonical: https://yomilimi.github.io
+description: Hyelim Lim's Website
 
 # The option is used to enable the MPI Informatics template.
-enable_mpi_logo: true
+enable_mpi_logo: false
 
 # The option is used to show the last update time.
 enable_last_update: false
 
 # Links
-google_scholar: https://scholar.google.com/
+google_scholar: https://scholar.google.co.kr/citations?hl=ko&user=aA1iuUQAAAAJ
 cv_link: assets/files/curriculum_vitae.pdf
-github_link: https://github.com/
-linkedin: https://www.linkedin.com/
-twitter: https://twitter.com/
+github_link: https://github.com/yomilimi
+linkedin: https://www.linkedin.com/in/hyelim-lim-a072a429a/
 
 # Images 
 avatar: ./assets/img/avatar.png
@@ -29,7 +28,7 @@ favicon: ./assets/img/favicon.png
 favicon_dark: ./assets/img/favicon-dark.png
 
 # Footnotes
-enable_footnote: true
+enable_footnote: false
 
 # General Data Protection Regulation (GDPR) information
 # If you don't need to add the GDPR information, you may remove the following lines.
