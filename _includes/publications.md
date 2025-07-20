@@ -13,7 +13,7 @@
 
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
     <div class="title"><a href="https://www.arxiv.org/pdf/2505.16252">Does Localization Inform Unlearning? A Rigorous Examination of Local Parameter Attribution for Knowledge Unlearning in Language Models</a></div>
-    <div class="author">Hwiyeong Lee, Uiji Hwang, <strong>Hyelim Lim</strong>, Taeuk Kim</div>
+    <div class="author"><a href="https://hwi0lee.github.io/" target="_blank" rel="noopener">Hwiyeong Lee</a>, Uiji Hwang, <strong>Hyelim Lim</strong>, Taeuk Kim</div>
     <div class="periodical"><em>arXiv preprint, 2025.</em></div>
     <div class="links">
       <a href="https://www.arxiv.org/pdf/2505.16252" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
@@ -28,27 +28,7 @@
 <div class="pub-row">
 
   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
-    <img src="assets/img/arxiv.png" class="teaser img-fluid z-depth-1">
-    <abbr class="badge">IEIE</abbr>
-  </div>
-
-  <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
-    <div class="title"><a href="https://www.dbpia.co.kr/Journal/articleDetail?nodeId=NODE12036328">ASR Error Correction Method Using Context-Aware LLMs</a></div>
-    <div class="author"><strong>Hyelim Lim</strong>, Changhan Oh, Jeomja Kang, Hwajeon Song, Kiyoung Park</div>
-    <div class="periodical"><em>The Institute of Electronics and Information Engineers(IEIE), 2024.</em></div>
-    <div class="links">
-      <a href="https://www.dbpia.co.kr/Journal/articleDetail?nodeId=NODE12036328" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
-      <strong><i style="color:#e74d3c">Poster Presentation, Outstanding Student Paper</i></strong>
-    </div>
-  </div>
-</div>
-</li>
-
-<li>
-<div class="pub-row">
-
-  <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
-    <img src="assets/img/arxiv.png" class="teaser img-fluid z-depth-1">
+    <img src="assets/img/ieie-utilizing.png" class="teaser img-fluid z-depth-1">
     <abbr class="badge">IEIE</abbr>
   </div>
 
@@ -68,7 +48,27 @@
 <div class="pub-row">
 
   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
-    <img src="assets/img/arxiv.png" class="teaser img-fluid z-depth-1">
+    <img src="assets/img/ieie-asr.png" class="teaser img-fluid z-depth-1">
+    <abbr class="badge">IEIE</abbr>
+  </div>
+
+  <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
+    <div class="title"><a href="https://www.dbpia.co.kr/Journal/articleDetail?nodeId=NODE12036328">ASR Error Correction Method Using Context-Aware LLMs</a></div>
+    <div class="author"><strong>Hyelim Lim</strong>, Changhan Oh, Jeomja Kang, Hwajeon Song, Kiyoung Park</div>
+    <div class="periodical"><em>The Institute of Electronics and Information Engineers(IEIE), 2024.</em></div>
+    <div class="links">
+      <a href="https://www.dbpia.co.kr/Journal/articleDetail?nodeId=NODE12036328" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
+      <strong><i style="color:#e74d3c">Poster Presentation, Outstanding Student Paper</i></strong>
+    </div>
+  </div>
+</div>
+</li>
+
+<li>
+<div class="pub-row">
+
+  <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
+    <img src="assets/img/ssrn.png" class="teaser img-fluid z-depth-1">
     <abbr class="badge">Preprint</abbr>
   </div>
 
@@ -87,7 +87,7 @@
 <div class="pub-row">
 
   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
-    <img src="assets/img/arxiv.png" class="teaser img-fluid z-depth-1">
+    <img src="assets/img/ksc.png" class="teaser img-fluid z-depth-1">
     <abbr class="badge">KSC</abbr>
   </div>
 

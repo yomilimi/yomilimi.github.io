@@ -134,22 +134,26 @@
 
       {{ content }}
 
-      <br>
-
-      {% if site.enable_footnote %}
-      <p><small>Powered by Jekyll and <a href="https://github.com/yaoyao-liu/minimal-light" target="_blank" rel="noopener">Minimal Light</a> theme.</small></p>
-      {% endif %}
-
-      <br>
-      {% if site.clustrmaps_id %}
-      <div style="width:100px; pointer-events: none;">
-      <script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=043361&w=153&t=n&d={{ site.clustrmaps_id }}&co=ffffff&cmo=3eb7f0&ct=043361'></script>
-      </div>
-      {% endif %}
-      
       </section>
-
+      <footer>
+        {% if site.enable_footnote %}
+        <p><small>
+        Last updated: {{ site.time | date: "%Y-%m-%d" }}<br>
+        © {{ site.time | date: "%Y" }} Hyelim Lim. All rights reserved.
+        </small></p>
+        {% endif %}
+      </footer>
     </div>
     <script src="{{ "/assets/js/scale.fix.js" | relative_url }}"></script>
+    {% if site.google_analytics %}
+    <script>
+      (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+      (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+      m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+      })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+      ga('create', '{{ site.google_analytics }}', 'auto');
+      ga('send', 'pageview');
+    </script>
+    {% endif %}
   </body>
 </html>
