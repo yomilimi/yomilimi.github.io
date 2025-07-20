@@ -18,7 +18,7 @@
     <div class="links">
       <a href="https://www.arxiv.org/pdf/2505.16252" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
       <a href="https://arxiv.org/bibtex/2505.16252" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">BibTex</a>
-      <strong><i style="color:#e74d3c">Under Review</i></strong>
+      <strong><i style="color:#e74d3c"> Under Review</i></strong>
     </div>
   </div>
 </div>
@@ -38,7 +38,7 @@
     <div class="periodical"><em>The Institute of Electronics and Information Engineers(IEIE), 2024.</em></div>
     <div class="links">
       <a href="https://www.dbpia.co.kr/Journal/articleDetail?nodeId=NODE12117416" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
-      <strong><i style="color:#e74d3c">Journal</i></strong>
+      <strong><i style="color:#e74d3c"> Journal</i></strong>
     </div>
   </div>
 </div>
@@ -58,7 +58,7 @@
     <div class="periodical"><em>The Institute of Electronics and Information Engineers(IEIE), 2024.</em></div>
     <div class="links">
       <a href="https://www.dbpia.co.kr/Journal/articleDetail?nodeId=NODE12036328" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
-      <strong><i style="color:#e74d3c">Poster Presentation, Outstanding Student Paper</i></strong>
+      <strong><i style="color:#e74d3c"> Poster Presentation, Outstanding Student Paper</i></strong>
     </div>
   </div>
 </div>
@@ -97,7 +97,7 @@
     <div class="periodical"><em>Korean Institute of Information Scientists and Engineers(KSC), 2023.</em></div>
     <div class="links">
       <a href="https://www.dbpia.co.kr/Journal/articleDetail?nodeId=NODE11705189" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
-      <strong><i style="color:#e74d3c">Poster Presentation</i></strong>
+      <strong><i style="color:#e74d3c"> Poster Presentation</i></strong>
     </div>
   </div>
 </div>
