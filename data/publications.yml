@@ -1,0 +1,41 @@
+main:
+
+  - title: Does Localization Inform Unlearning? A Rigorous Examination of Local Parameter Attribution for Knowledge Unlearning in Language Models
+    authors: <a href="https://hwi0lee.github.io/" target="_blank" rel="noopener" style="color:#828282;>Hwiyeong Lee</a>, Uiji Hwang, <strong>Hyelim Lim</strong>, Taeuk Kim
+    conference_short: Preprint
+    conference: arXiv Preprint, 2025.
+    pdf: https://www.arxiv.org/pdf/2505.16252
+    bibtex: https://arxiv.org/bibtex/2505.16252
+    image: assets/img/arxiv-does.png
+    notes: Under Review
+
+  - title: Utilizing Context-aware Large Langauage Models for Speech Recognition Error Correction
+    authors: <strong>Hyelim Lim</strong>, Changhan Oh, Jeomja Kang, Hwajeon Song, Kiyoung Park
+    conference_short: IEIE
+    conference: The Institute of Electronics and Information Engineers<strong>(IEIE)</strong>, 2025.
+    pdf: https://www.dbpia.co.kr/Journal/articleDetail?nodeId=NODE12117416
+    image: assets/img/ieie-utilizing.png
+    notes: Journal
+
+  - title: ASR Error Correction Method Using Context-Aware LLMs
+    authors: Hyelim Lim</strong>, Changhan Oh, Jeomja Kang, Hwajeon Song, Kiyoung Park
+    conference_short: IEIE
+    conference:  The Institute of Electronics and Information Engineers<strong>(IEIE)</strong>, 2024.
+    pdf: https://www.dbpia.co.kr/Journal/articleDetail?nodeId=NODE12036328
+    image: assets/img/ieie-asr.png
+    notes: Poster Presentation, Outstanding Student Paper
+
+  - title: Utilizing Large Language Models for Detection of SMS Spam in Few-Shot Settings
+    authors: Minseok Hur, Sooyon Seo, Jaeho Hwang, <strong>Hyelim Lim</strong>, Moohong Min
+    conference_short: Preprint
+    conference: Social Science Research Network<strong>SSRN</strong>, 2024.
+    pdf: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4815382
+    image: assets/img/ssrn.png
+
+  - title: Method of combining prompts for code generation based on LLM
+    authors: Sangyeop Yeo, <strong>Hyelim Lim</strong>, Hyungkook Ju, Taeho Kim, Sangcheol Kim, Yuseung Ma
+    conference_short: KSC
+    conference: Korean Institute of Information Scientists and Engineers<strong>(KSC)</strong>, 2023.
+    pdf: https://www.dbpia.co.kr/Journal/articleDetail?nodeId=NODE11705189
+    image: assets/img/ksc.png
+    notes: Poster Presentation

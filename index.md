@@ -4,7 +4,7 @@ layout: homepage
 
 ## About Me
 
-Hi, I'm Hyelim Lim, a first year M.S. student in Artificial Inteligence Application at Hanyang University, supervised by Prof. Taeuk Kim and affiliated with the HYU NLP Lab.
+Hi, I'm Hyelim Lim, a first year M.S. student in Artificial Inteligence Application at Hanyang University, supervised by [Prof. Taeuk Kim](https://galsang.github.io/) and affiliated with the [HYU NLP Lab.](https://sites.google.com/view/hyu-nlp/home)
 
 ## Research Interests
 
