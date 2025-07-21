@@ -1,7 +1,7 @@
 main:
 
   - title: Does Localization Inform Unlearning? A Rigorous Examination of Local Parameter Attribution for Knowledge Unlearning in Language Models
-    authors: <a href="https://hwi0lee.github.io/" target="_blank" rel="noopener" style="color:#828282;>Hwiyeong Lee</a>, Uiji Hwang, <strong>Hyelim Lim</strong>, Taeuk Kim
+    authors: <a href="https://hwi0lee.github.io/" target="_blank" rel="noopener" style="color:#828282;">Hwiyeong Lee</a>, Uiji Hwang, <strong>Hyelim Lim</strong>, Taeuk Kim
     conference_short: Preprint
     conference: arXiv Preprint, 2025.
     pdf: https://www.arxiv.org/pdf/2505.16252
